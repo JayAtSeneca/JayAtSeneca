@@ -12,5 +12,5 @@
   
   
 <h2>🛠 Tech Stack</h2>
-- 🌱 &nbsp; C | C++ | HTML |  CSS |  JavaScript |  SQL | BootStrap | ReactJS |   Jquery | Node.js | Express | API<br>
--  📸 &nbsp; Adobe Photoshop | Adobe Premiere Pro | Canva | Balsamiq Cloud
+- C | C++ | HTML |  CSS |  JavaScript |  SQL | BootStrap | ReactJS |   Jquery | Node.js | Express | NextJS | Java* | Python* | WEB API<br>
+  *currently learning
