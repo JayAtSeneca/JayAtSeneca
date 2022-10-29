@@ -12,5 +12,5 @@
   
   
 <h2>🛠 Tech Stack</h2>
-- C | C++ | HTML |  CSS |  JavaScript |  SQL | BootStrap | ReactJS |   Jquery | Node.js | Express | NextJS | Java* | Python* | WEB API<br>
+- C | C++ | HTML |  CSS |  JavaScript |  SQL | BootStrap | ReactJS |   jQuery | Node.js | Express | NextJS | Java* | Python* | WEB API<br>
   *currently learning
