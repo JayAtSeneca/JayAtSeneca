@@ -3,11 +3,7 @@
 
 <h2> 👦🏽 About Me </h2>
 
-- 🤩 &nbsp; Hi there! I'm a software developer with a passion for creating intuitive and user-friendly applications.
-
-  I have gained extensive experience in various programming languages and frameworks, including C/C++, Java, Python, and React. I am skilled at developing both front-end   and back-end applications, and have a knack for solving complex technical problems.
-  
-  In my free time, I enjoy participating in hackathons and contributing to open source projects on GitHub. I am always looking for new ways to improve my skills and stay   up-to-date with the latest technology trends.
+- 🤩 &nbsp; Hi there! I am a software developer with a passion for coding and solving complex problems. I am currently learning the ins and outs of various        programming languages and frameworks, and I am excited to continue growing and improving as a developer. In my free time, I enjoy tinkering with new technologies and   collaborating with others on open source projects. I am always looking for new opportunities to learn and apply my skills, so feel free to reach out and connect with     me on GitHub!
 
 - 🎓 &nbsp; Student Of Computer Programming at Seneca college
 - ⌚ &nbsp; Sem:1 GPA --> 3.9/4.0 <br>
