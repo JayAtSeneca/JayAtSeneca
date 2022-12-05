@@ -3,7 +3,7 @@
 
 <h2> 👦🏽 About Me </h2>
 
-- 🤩 &nbsp; Hi there! I'm a software developer with a passion for creating intuitive and user-friendly applications. I have a Bachelor's degree in Computer Science and have been working in the field for over 5 years.
+- 🤩 &nbsp; Hi there! I'm a software developer with a passion for creating intuitive and user-friendly applications.
 
   I have gained extensive experience in various programming languages and frameworks, including C/C++, Java, Python, and React. I am skilled at developing both front-end   and back-end applications, and have a knack for solving complex technical problems.
   
