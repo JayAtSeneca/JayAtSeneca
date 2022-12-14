@@ -9,8 +9,8 @@
 - ⌚ &nbsp; Sem:1 GPA --> 3.9/4.0 <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sem:2 GPA --> 3.9/4.0 <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sem:3 GPA --> 3.8/4.0 
+- 📫 How to reach me **jaychaudhari1100@gmail.com**  
   
-  
-<h2>🛠 Tech Stack</h2>
+<h2>🛠 Languages and Tools</h2>
 - C | C++ | HTML |  CSS |  JavaScript |  SQL | BootStrap | ReactJS |   jQuery | Node.js | Express | NextJS | Java* | Python* | WEB API<br>
   *currently learning
