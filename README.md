@@ -17,4 +17,4 @@
 
 <h2>Most Used Languages</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayAtSeneca)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayAtSeneca)](https://github.com/JayAtSeneca/github-readme-stats)
