@@ -10,7 +10,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sem:2 GPA --> 3.9/4.0 <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sem:3 GPA --> 3.8/4.0 <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sem:4 GPA --> 3.6/4.0 <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Overall CGPA --> 3.8/4.0 (graduated with high honours)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Overall CGPA --> 3.8/4.0 (graduated with honours)
 - 📫 How to reach me **jaychaudhari1100@gmail.com**  
   
 <h2>🛠 Languages and Tools</h2>
