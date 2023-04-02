@@ -21,4 +21,4 @@
 
  |       |  |
 | :----: |    :----:   |
-| ![My github stats](https://github-readme-stats.vercel.app/api?username=JayAtSeneca&show_icons=true&theme=radical)| ![Languages I used mostly](https://github-readme-stats.vercel.app/api/top-langs/?username=JayAtSeneca&layout=compact&theme=radical)|
+| ![My github stats](https://github-readme-stats.vercel.app/api?username=JayAtSeneca&show_icons=true&theme=radical)| ![Languages I used mostly](https://github-readme-stats.vercel.app/api/top-langs/?username=JayAtSeneca&layout=compact&theme=radical&langs_count=8)|
